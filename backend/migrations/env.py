@@ -1,5 +1,6 @@
 from alembic import context
 from app.database import Base, engine
+from app import models  # Register all metadata for future migrations.
 
 with engine.connect() as connection:
     context.configure(connection=connection, target_metadata=Base.metadata, render_as_batch=True)

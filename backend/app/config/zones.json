@@ -1,0 +1,87 @@
+[
+  { "id": 1, "name": "Zone 1", "color": "#55745f", "cities": ["Lisieux"] },
+  {
+    "id": 2,
+    "name": "Zone 2",
+    "color": "#587b94",
+    "cities": [
+      "Rocques",
+      "Fauguernon",
+      "Saint-Philbert-des-Champs",
+      "Norolles",
+      "Ouilly-le-Vicomte"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Zone 3",
+    "color": "#8a6857",
+    "cities": [
+      "Hermival-les-Vaux",
+      "Firfol",
+      "Ouilly-du-Houley",
+      "Fumichon",
+      "Moyaux",
+      "Le Pin",
+      "Le Faulq",
+      "Le Brevedent"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zone 4",
+    "color": "#80668e",
+    "cities": [
+      "Blangy-le-Château",
+      "Bonneville-la-Louvet",
+      "Manneville-la-Pipard",
+      "Fierville-les-Parcs"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zone 5",
+    "color": "#9b7440",
+    "cities": [
+      "Saint-Julien-sur-Calonne",
+      "Les Authieux-sur-Calonne",
+      "Saint-André-d'Hébertot"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Zone 6",
+    "color": "#507d7c",
+    "cities": [
+      "Pierrefitte-en-Auge",
+      "Saint-Hymer",
+      "Le Breuil-en-Auge",
+      "Le Torquesne",
+      "Coquainvilliers"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zone 7",
+    "color": "#7c8050",
+    "cities": ["Manerbe", "Formentin", "Le Fournet", "Auvillars", "Bonnebosq"]
+  },
+  {
+    "id": 8,
+    "name": "Zone 8",
+    "color": "#9a6277",
+    "cities": [
+      "Cormeilles",
+      "Saint-Pierre-de-Cormeilles",
+      "Saint-Sylvestre-de-Cormeilles",
+      "Le Bois-Hellain",
+      "Asnières"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Zone 9",
+    "color": "#626d99",
+    "cities": ["Deauville", "Trouville-sur-Mer"]
+  }
+]
